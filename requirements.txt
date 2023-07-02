@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn == 1.2.2
+ipykernel
+dill
+flask
+flask_cors
+lime
+#-e .
